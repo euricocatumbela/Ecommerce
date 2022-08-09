@@ -20,7 +20,7 @@ React App for LP
   - [Cart Logic]
   - [Payment Logic](#Payment Gateway)
   - [Success page]
-  - [Deployment](#AWS S3, Cloud front)
+  - [Deployment](#AWS in S3, Cloud front)
   
 <!-- /TOC -->
 
