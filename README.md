@@ -27,7 +27,7 @@ React App for LP
 ## Quick Start - Frontend
 
 1. `npm install` install NPM dependencies
-2. `npm run dev` start server in port 8000
+2. `npm run dev` start server in port 3000
 
 ## Quick Start - Backend Sanity
 
