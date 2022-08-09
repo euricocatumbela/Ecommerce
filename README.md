@@ -10,6 +10,7 @@ React App for LP
 
   - [Frontend Setup](#React Next JS)
   - [Backend Setup](#Sanity CMS)
+  - [Hookup styled components]
   - [Homepage]
   - [Hookup Sanity]
   - [Products]
